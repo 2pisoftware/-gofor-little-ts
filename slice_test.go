@@ -3,7 +3,7 @@ package ts_test
 import (
 	"testing"
 
-	"github.com/gofor-little/ts"
+	ts "github.com/2pisoftware/gofor-little-ts"
 	"github.com/stretchr/testify/require"
 )
 

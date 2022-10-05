@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/gofor-little/ts"
+	ts "github.com/2pisoftware/gofor-little-ts"
 )
 
 func TestLinkedList(t *testing.T) {

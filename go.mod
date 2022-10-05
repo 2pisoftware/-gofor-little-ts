@@ -1,4 +1,4 @@
-module github.com/gofor-little/ts
+module github.com/2pisoftware/gofor-little-ts
 
 go 1.17
 
